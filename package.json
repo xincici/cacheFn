@@ -1,6 +1,6 @@
 {
   "name": "cache-fn",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Make your calculate heavy function more effective!",
   "main": "index.js",
   "scripts": {
