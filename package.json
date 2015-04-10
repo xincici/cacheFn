@@ -1,0 +1,23 @@
+{
+  "name": "cacheFn",
+  "version": "0.0.1",
+  "description": "Make your calculate heavy function more effective!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xincici/cacheFn.git"
+  },
+  "keywords": [
+    "cache",
+    "function"
+  ],
+  "author": "yelin (linye1987@sina.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xincici/cacheFn/issues"
+  },
+  "homepage": "https://github.com/xincici/cacheFn"
+}
