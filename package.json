@@ -1,5 +1,5 @@
 {
-  "name": "cacheFn",
+  "name": "cache-fn",
   "version": "0.0.1",
   "description": "Make your calculate heavy function more effective!",
   "main": "index.js",
