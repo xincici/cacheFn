@@ -1,6 +1,6 @@
 {
   "name": "cache-fn",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Make your calculate heavy function more effective!",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/xincici/cacheFn/issues"
   },
-  "homepage": "https://github.com/xincici/cacheFn"
+  "homepage": "https://github.com/xincici/cacheFn",
+  "devDependencies": {
+    "lodash": "latest"
+  }
 }
