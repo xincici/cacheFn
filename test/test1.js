@@ -20,3 +20,4 @@ console.log(cacheAdd(arr, 5));
 console.log(cacheAdd(arr, 8));
 console.log(cacheAdd(arr, 5));
 console.log(cacheAdd(arr, 8));
+console.log(cacheAdd(arr, 6));

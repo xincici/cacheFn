@@ -6,6 +6,7 @@ Make your calculate heavy function more effective!
 npm install cache-fn
 ```
 
+## example
 ```javascript
 var cacheFn = require('cache-fn');
 function yourFunc(args1 [, args2 ...]){
@@ -30,5 +31,5 @@ var obj = {
 };
 var cacheFn1 = cacheFn(obj.fn1, obj);  //pass obj as the second argument 
 //cacheFn1 is now a cached function
-//obj.fn1 will be executed with this point to obj
+//when you call cacheFn1(args1 [, args2...]), obj.fn1 will be executed with this point to obj
 ```
